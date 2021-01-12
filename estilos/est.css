@@ -1,0 +1,232 @@
+#bb {
+	background: green;
+	color: white;
+}
+
+
+
+#testo-t {
+	color: white;
+	text-align: center;
+}
+
+
+#body-img{
+	position: relative;
+	z-index: 0;
+	margin-top: 0px;
+	margin: 0px;
+	height: 800px;
+	width: 100%;
+
+}
+
+
+#body-pri{
+	z-index: 1;
+	position: relative;
+	margin-top: -780px;
+	background-color: rgb(0,0,0,0.5);
+	height: 600px;
+}
+
+
+body{
+	background-color: black;
+}
+
+
+#res-rec{
+	background-color: green;
+		
+}
+
+#tex_conf{
+	background-color: yellow;
+	font-size: 18px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+#tex_mort{
+	background-color: red; 
+	font-size: 18px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+#tex_rec{
+	background-color: green;
+	font-size: 18px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+
+
+/*dados tela1 brasil*/
+#tex_conf_tel1{
+	background-color: yellow;
+	font-size: 18px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+#tex_mort_tel1{
+	background-color: red; 
+	font-size: 18px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+#tex_rec_tel1{
+	background-color: orange;
+	font-size: 18px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+
+
+/*logo Brasil*/
+
+#logo_brasil{
+	height: 50px; 
+	width: 90px;
+}
+
+
+#select-est{
+	font-size:30px; 
+	margin-bottom: 20px;
+}
+
+
+#logo_corona{
+	height: 50px; 
+	width: 100px;
+}
+
+.btn-danger{
+    margin-top:-13px;
+	height:42px;
+	width: 50px;
+}
+
+
+/*resposivel*/
+
+@media only screen and (max-width: 650px) {
+
+
+/*dados tela1 brasil*/
+#tex_conf_tel1{
+	background-color: yellow;
+	font-size: 9px; 
+	font-weight:bold; 
+	color: blue;
+	margin-top: 50px;
+	margin-left: -60px;
+	width:110px;
+}
+
+#tex_mort_tel1{
+	background-color: red; 
+	font-size: 10px; 
+	font-weight:bold; 
+	color: blue;
+	margin-top: 50px;
+	margin-left: -40px;
+	width:110px;
+}
+
+#tex_rec_tel1{
+	background-color: orange;
+	font-size: 10px; 
+	font-weight:bold; 
+	color: blue;
+	margin-top: 50px;
+	margin-left: -20px;
+	width:110px;
+}
+
+
+
+
+#logo_brasil{
+	height: 25px; 
+	width: 25px;
+}
+
+#select-est{
+	font-size:19px; 
+	margin-bottom: 20px;
+	width: 200px;
+}
+
+.btn-danger{
+    margin-top:-6px;
+	height:35px;
+	width: 43px;
+}
+
+
+#tex_conf{
+	background-color: yellow;
+	font-size: 12px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+#tex_mort{
+	background-color: red; 
+	font-size: 12px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+#tex_rec{
+	background-color: green;
+	font-size: 12px; 
+	font-weight:bold; 
+	color: blue;
+}
+
+#hora_tela{
+	margin-left: 20px;
+}
+
+#logo_corona{
+	height: 50px; 
+	width: 100px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+
+
+#body-img{
+	position: relative;
+	z-index: 0;
+	margin-top: 0px;
+	margin: 0px;
+	height: 800px;
+	width: 415px;
+
+}
+
+
+#body-pri{
+	z-index: 1;
+	position: relative;
+	margin-top: -780px;
+	background-color: rgb(0,0,0,0.5);
+	height: 680px;
+	width: 350px;
+}
+
+
+
+}
+
+
+
